@@ -1,4 +1,4 @@
-Pyrogram
+https://github.com/KurimuzonAkuma/pyrogram
 numpy
 yt-dlp
 Pillow
